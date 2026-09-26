@@ -1,0 +1,3 @@
+"""
+Battery Meme Alert package
+"""
